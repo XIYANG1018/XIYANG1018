@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="text.gif" width="200"/>
+  <img src="imgs/text.gif" width="200"/>
 </div>
 
 <div id="badges" align='center'>
