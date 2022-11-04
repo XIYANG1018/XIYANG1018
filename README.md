@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="xiyang1018.github.io">
+  <a href="https://xiyang1018.github.io/">
     <img src="https://img.shields.io/badge/webpage-red?style=for-the-badge&logo=webpage&logoColor=white" alt="Webpage"/>
   </a>
   <a href="your-twitter-URL">
