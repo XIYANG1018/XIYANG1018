@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align='center'>
-  <a href="your-linkedin-URL">
-    <img src="https://www.linkedin.com/in/xi-yang-300b6415b/>
+  <a href="https://www.linkedin.com/in/xi-yang-300b6415b/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedlin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="https://xiyang1018.github.io/">
     <img src="https://img.shields.io/badge/webpage-red?style=for-the-badge&logo=webpage&logoColor=white" alt="Webpage"/>
