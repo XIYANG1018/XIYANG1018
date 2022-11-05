@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div id="badges" align='center'>
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"](https://www.linkedin.com/in/xi-yang-300b6415b/)/>
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"](https://www.linkedin.com/in/xi-yang-300b6415b/)](https://www.linkedin.com/in/xi-yang-300b6415b/)/>
   </a>
   <a href="https://xiyang1018.github.io/">
     <img src="https://img.shields.io/badge/webpage-red?style=for-the-badge&logo=webpage&logoColor=white" alt="Webpage"/>
