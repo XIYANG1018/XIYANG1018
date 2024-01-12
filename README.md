@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 </h1>
 
 ### :woman_technologist: About Me :
-- :telescope: I'm a incoming M.S. student at xxx
+- :telescope: I’m currently stuyding in Northeastern University.
 
-- :seedling: Exploring Technical Content Writing.
-
+- :seedling: I’m currently learning mobile application development.
+  
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
