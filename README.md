@@ -19,12 +19,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/xi-yang-300b6415b/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedlin&logoColor=white" alt="Linkedin Badge"/>
   </a>
-  <a href="https://xiyang1018.github.io/">
-    <img src="https://img.shields.io/badge/webpage-red?style=for-the-badge&logo=webpage&logoColor=white" alt="Webpage"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 <h1 align='center'>
