@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 - :telescope: I’m currently stuyding in Northeastern University.
 
-- :seedling: I’m currently learning mobile application development.
+- :seedling: I’m seeking intern/Co-op in software development. 
   
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like dancing, skateboarding, and reading.
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
