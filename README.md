@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently stuyding in Northeastern University.
-- 🌱 I’m currently learning mobile application development. 
+- 🔭 I’m currently studying in Northeastern University.
+- 🌱 I’m seeking intern/Co-op in software development. 
 - 📫 How to reach me: yang.xi5@northeastern.edu
 - 😄 Pronouns: She/Her
 
