@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/xi-yang-300b6415b/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedlin&logoColor=white" alt="Linkedin Badge"/>
   </a>
+  <a href="https://www.xiyang.live/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedlin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
 </div>
 
 <h1 align='center'>
